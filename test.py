@@ -149,6 +149,18 @@ def run(url):
         if(url==None):
             continue
 
-
-run('http://www.jjxsw.com/txt/Qinggan/')
+#http://www.jjxsw.com/txt/Chuanyue/  1
+#http://www.jjxsw.com/txt/chongshengxiaoshuo/    1
+#http://www.jjxsw.com/txt/Lsjs/     1
+#http://www.jjxsw.com/txt/Qinggan/  1
+#http://www.jjxsw.com/txt/Young/      1
+#http://www.jjxsw.com/txt/Wuxia/    1
+#http://www.jjxsw.com/txt/tongrenxiaoshuo/
+#http://www.jjxsw.com/txt/Juben/
+#http://www.jjxsw.com/txt/dmtr/
+#http://www.jjxsw.com/txt/Xuanhuan/
+#http://www.jjxsw.com/txt/dushi/
+#http://www.jjxsw.com/txt/tiexue/   1
+#http://www.jjxsw.com/txt/Kongbu/
+run('http://www.jjxsw.com/txt/tiexue/index_3.html')
 # getnovel('http://www.jjxsw.com/txt/18647.htm')
